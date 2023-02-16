@@ -6,7 +6,6 @@
 //
 
 import SwiftUI
-
 @main
 struct _Za_HunterApp: App {
     var body: some Scene {
